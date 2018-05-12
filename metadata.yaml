@@ -1,0 +1,46 @@
+_repo: Histoire-des-salons-de-Paris--Tome-3-6-le-r-gne-de-Louis-Philippe-Ier_42663
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42663-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Abrantès, Laure Junot, duchesse d'
+    aliases:
+    - Abrantes, Laure Junot, duchesse d'
+    - Junot, Laure,‏ duchesse d'Abrantès
+    - Abrantès, Laure Saint-Martin Permon Junot,‏  duchesse d'
+    - D'Abrantès, Laure Junot,‏ duchesse
+    birthdate: 1784
+    deathdate: 1838
+    gutenberg_agent_id: '39968'
+    url: http://www.gutenberg.org/2009/agents/39968
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Laure_Junot_d%27Abrant%C3%A8s
+    - http://en.wikipedia.org/wiki/Laure_Junot,_Duchess_of_Abrant%C3%A8s
+description: ''
+gutenberg_bookshelf:
+- FR Chroniques
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2013-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42663'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salons'
+- !lcsh 'Paris (France) -- Social life and customs'
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Intellectual life'
+tableOfContents: 'Une lecture chez Robespierre -- Salon de Robespierre -- Salon de
+  Madame de Sainte-Amaranthe -- Bal des victimes (janvier 1795) -- Salon de Barras
+  à Paris et à Grosbois -- Salon de François de Neufchâteau -- Salon de Madame de
+  Staël sous le Directoire -- Salon de Seguin -- (An VII et an VIII: 98 et 99) --
+  Salon de Lucien Bonaparte, comme député et ministre de l''Intérieur (1798).'
+title: "Histoire des salons de Paris (Tome 3/6)\r\nTableaux et portraits du grand\
+  \ monde sous Louis XVI, Le Directoire, le Consulat et l'Empire, la Restauration\
+  \ et le règne de Louis-Philippe Ier"
+url: http://www.gutenberg.org/ebooks/42663
